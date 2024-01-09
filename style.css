@@ -1,0 +1,25 @@
+h1{
+    background-color: black;
+    color: yellow;
+}
+p.left{
+    position: relative;
+    left: 12%;
+    top: 30px;
+}
+img.izquierda{
+    position: relative;
+    left: 10px;
+}
+p.derecha{
+    position: relative;
+    right: -79%;
+    top: -33px;
+}
+img.derecha{
+    position: relative;
+    right: -400px;
+}
+p.advertencia{
+    color: red;
+}
